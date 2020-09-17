@@ -1,4 +1,4 @@
-# Characterists of a Successful Popular Song
+# Characteristics of a Successful Popular Song
 
 ## Data Mining Project 
 
