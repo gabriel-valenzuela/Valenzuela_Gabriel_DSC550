@@ -144,3 +144,7 @@ Train and Test for Random Forest Classifier Model
 ![Confusion Matrix](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC550/blob/master/Project/PopularSongConfusionMatrix.png)
 ![Classificaion Report](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC550/blob/master/Project/PopularSongClassificationReport.png)
 ![ROC Rates](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC550/blob/master/Project/PopularSongRates.png)
+
+### Conclusion
+
+When it comes to this analysis of characteristics that lead to a popular song, the most important factors discovered from this analysis would be the live, valence, and dance aspects of the song. With the model that deployed to find these factors, these features had the greatest effect on the model and the if a song were to be popular or not at this moment. To understand future popular songs, it would be interesting to use the Spotify's top songs from 2020 to determine if it was the same attributes that led songs to be popular throughout the year. 
